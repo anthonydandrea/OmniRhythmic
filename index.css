@@ -1,0 +1,12 @@
+h1 {
+  margin: 30px auto;
+  text-align: center;
+  display: block;
+}
+
+canvas {
+  width: 1000px;
+  margin: 70px auto;
+  height: 60px;
+  display: block;
+}
