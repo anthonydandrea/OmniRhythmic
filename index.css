@@ -5,8 +5,21 @@ h1 {
 }
 
 canvas {
-  width: 1000px;
   margin: 70px auto;
-  height: 60px;
   display: block;
+}
+
+img {
+  display: none;
+}
+
+#qRest {
+  width: 50px;
+  height: 50px;
+}
+
+#sRest {
+  height: 40px;
+  width: 25px;
+  padding-bottom: 3px;
 }
